@@ -24,7 +24,7 @@ and comprehensive comparison analysis.
 7. [Output Files](#output-files)
 8. [Experimental Configuration](#experimental-configuration)
 9. [Known Limitations](#known-limitations)
-10. [Citation](#citation)
+
 
 ---
 
